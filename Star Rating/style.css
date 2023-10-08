@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+h1{
+    margin: 2rem 0;
+}
+
+.container{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.icon-active{
+    cursor: pointer;
+    display: none;
+}
